@@ -69,7 +69,7 @@ npx hardhat test l0k_factory.test.ts
 
 ```cairo
 func PairCreated(token0 : felt, token1 : felt, pair : felt, index : felt):
-end
+end1
 ```
 
 - `token0` is guaranteed to be strictly less than `token1` by sort order.
