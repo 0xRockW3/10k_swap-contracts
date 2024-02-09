@@ -39,7 +39,7 @@ cd 10k_swap-contracts
 yarn install
 ```
 
-#### Compile a contract
+#### Compile a contract.
 
 ```
 npx hardhat starknet-compile contracts/l0k_factory.cairo
